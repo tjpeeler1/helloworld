@@ -1,2 +1,2 @@
 # helloworld
-TJ's way to practice github.
+TJ's way to practice github in the open.
